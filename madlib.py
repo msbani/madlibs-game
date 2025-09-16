@@ -1,8 +1,8 @@
-adjective1 = input('Enter an adjective (desrciption):')
+adjective1 = input('Enter an adjective (description):')
 noun1 = input('Enter a noun (person, place, thing):')
-adjective2 = input('Enter an adjective (desrciption):')
+adjective2 = input('Enter an adjective (description):')
 verb1 = input('Enter a verb ending with "ing"')
-adjective3 = input('Enter an adjective (desrciption):')
+adjective3 = input('Enter an adjective (description):')
 
 
 print(f'Today I went to a {adjective1} zoo.')
